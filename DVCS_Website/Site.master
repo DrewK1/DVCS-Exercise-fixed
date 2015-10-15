@@ -56,6 +56,7 @@
                         <li><a runat="server" href="~/ExtraPage1">Extra Page 1</a></li>
                         <li><a runat="server" href="~/ExtraPage2">Extra Page 2</a></li>
                         <li><a runat="server" href="~/ExtraPage3">Extra Page 3</a></li>
+                        <li><a runat="server" href="~/ExtraPage4">Extra Page 4</a></li>
                     </ul>
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
